@@ -27,7 +27,8 @@ create and you will need to translate it to HTML and CSS.
 
 ### Sign up for Project
 
-Sign up for the project repository here: [TODO](TODO)
+Sign up for the project repository here:
+[https://classroom.github.com/a/M6CiLTpi](https://classroom.github.com/a/M6CiLTpi)
 
 After your repository has initialized it, clone it to your computer. I recommend
 putting it in your `ap-csp` directory.
@@ -115,10 +116,12 @@ Due: Friday November 6th @ 8am
 
 For the first Milestone: 
 
-1. Create a new directory inside this repository called `resort`. 
-2. Create an index HTML page with the same background as the [reference
+1. Create a `develop` branch
+2. Create a Pull Request to your `develop` branch.
+3. Create a new directory inside this repository called `resort`. 
+4. Create an index HTML page with the same background as the [reference
    image](references/index.png)
-3. Create a [Horizontal Navigation
+5. Create a [Horizontal Navigation
    Bar](https://www.w3schools.com/css/css_navbar_horizontal.asp) containing an
    anchor tag for all 7 pages (the pages do not need to exist yet)
 
