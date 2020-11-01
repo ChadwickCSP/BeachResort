@@ -117,7 +117,7 @@ For the first Milestone:
 
 1. Create a new directory inside this repository called `resort`. 
 2. Create an index HTML page with the same background as the [reference
-   image](references/index.html)
+   image](references/index.png)
 3. Create a [Horizontal Navigation
    Bar](https://www.w3schools.com/css/css_navbar_horizontal.asp) containing an
    anchor tag for all 7 pages (the pages do not need to exist yet)
@@ -225,12 +225,11 @@ determine when your work was submitted.
 In this assignment, you will demonstrate your understanding of basic HTML tags
 and how they interact with CSS to create a rich user experience.
 
-| Advanced                                                    | Proficient                                           | Basic                                                           | Below Basic                                              |
-|-------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
-| Adds at least 4 sections or pages to their portfolio        | Adds at least 3 sections or pages to their portfolio | Student creates an About Me and Portfolio Section               | Student creates an About Me section with some text in it |
-| Adds a navigation menu to jump to each section or page      | Utilizes CSS to create a unique Portfolio page       | <head> tag includes link to styling and title                   | Little or no CSS Styling                                 |
-| Does not have any style attributes in their HTML components | Links to their BashQuest files for downloading       | Specifies DOCTYPE                                               | Doesn't have working <head> tag                          |
-| Uses additional tags                                        | Utilizes image tags                                  | Utilizes header tags, paragraph tags, div tags, and anchor tags |                                                          |
+| Advanced                                                                      | Proficient                                                         | Basic                                                           | Below Basic                                                                 |
+|-------------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Completes all 7 pages                                                         | Completes at least 5 pages                                         | Student successfully completes the index.html page              | Student does not create an index.html page that matches the reference image |
+| Adds hover to all sections noted in [Mouse Over CSS](#mouse-over-css) section | Completes a functional Top Navigation Bar that works on all pages  | Student creates a css file that connects to the index.html page | Little or no CSS Styling                                                    |
+| Adds Social Media Links to the bottom navigation bar                          | Completes a function Bottom Navigation Bar that works on all pages |                                                                 |                                                                             |
 
 ### Computing, Programming, and Practice
 
